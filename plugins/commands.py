@@ -42,13 +42,15 @@ async def start(client, message):
         await client.send_message(LOG_CHANNEL, script.LOG_TEXT_P.format(message.from_user.id, message.from_user.mention))
     if len(message.command) != 2:
         buttons = [[
-            InlineKeyboardButton('➕ ᴀᴅᴅ ᴍᴇ ᴛᴏ yᴏᴜʀ ɢʀᴏᴜᴩꜱ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
+            InlineKeyboardButton('⚡️ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘs⚡️', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-            InlineKeyboardButton('🔍 ꜱᴇᴀʀᴄʜ 🔍', switch_inline_query_current_chat=''),
+            InlineKeyboardButton('🪄sᴇᴀʀᴄʜ🪄', switch_inline_query_current_chat=''),
             InlineKeyboardButton('🤖ᴜᴩᴅᴀᴛᴇꜱ🤖', url='https://t.me/KOMBOTZZ')
             ],[
             InlineKeyboardButton('ℹ️ ʜᴇʟᴩ', callback_data='help'),
             InlineKeyboardButton('😊 ᴀʙᴏᴜᴛ', callback_data='about')
+            ],[
+            InlineKeyboardButton('🌝ᴏᴡɴᴇʀ ɪɴғᴏ🌝', url='https://t.me/luttappimovie')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
