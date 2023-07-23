@@ -1,5 +1,5 @@
 class script(object):
-    START_TXT = """𝙷𝙴𝙻𝙾 {},
+    START_TXT = """𝙷𝙴𝙻𝙻𝙾 {},
 𝙼𝚈 𝙽𝙰𝙼𝙴 𝙸𝚂 <a href=https://t.me/{}>{}</a>, ɪ ᴄᴀɴ ᴩʀᴏᴠɪᴅᴇ ᴍᴏᴠɪᴇꜱ, ᴊᴜꜱᴛ ᴀᴅᴅ ᴍᴇ ᴛᴏ ᴛᴏᴜʀ ɢʀᴏᴜᴩ ᴀɴᴅ ᴇɴᴊᴏy😍"""
     HELP_TXT = """𝙷𝙴𝚈 {}
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝚃𝙷𝙴 𝙷𝙴𝙻𝙿 𝙵𝙾𝚁 𝙼𝚈 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
@@ -10,9 +10,12 @@ class script(object):
 🗃️DᴀᴛᴀBᴀsᴇ🗃️: ᴍᴏɴɢᴏ ᴅʙ
 ⚙️Bᴏᴛ Sᴇʀᴠᴇʀ⚙️: ᴋᴏyᴇʙ
 ✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: v1.0.1 [ 𝙱𝙴𝚃𝙰 ]</b>"""
-    SOURCE_TXT = """<b>NOTE:</b>
-- Join our new movies updates channel» @KOMOFFICIAL OUR ALL CHANNELS AND GROUPS» @KOM_LINKS  ©@KOMBOTZZ.
-- Support - https://t.me/KINGOFMOVIES003
+    SOURCE_TXT = """<b>ɴᴏᴛᴇ:
+- ⚠️ᴛʜɪꜱ ʙᴏᴛ ɪꜱ ɴᴏᴛ ᴀɴ  ᴏᴘᴇɴ ꜱᴏᴜʀᴄᴇ ᴘʀᴏᴊᴇᴄᴛ ⚠️.
+- ꜱᴏᴜʀᴄᴇ - <a href="https://t.me/KINGOFMOVIES003">ʜᴇʀᴇ</a>
+- ᴄʜᴇᴄᴋ ᴏᴜᴛ ᴏᴜʀ ᴀʟʟ ᴄʜᴀɴɴᴇʟꜱ - @KOM_LINKS
+Dᴇᴠᴇʟᴏᴘᴇʀ:
+- <a href="https://t.me/LUTTAPPIxTG">『🍁』༺⋆ͥ⋆ͣ⋆᭄ͫ⁣𓆩𝙻𝚄𝚃𝚃𝙰𝙿𝙿𝙸𓆪➳࿐𝆺𝅥⃝🇧🇷</a></b>"""
 
 <b>DEVS:</b>
 - <a href=https://t.me/LUTTAPPIxTG>『🍁』༺⋆ͥ⋆ͣ⋆᭄ͫ⁣𓆩𝙻𝚄𝚃𝚃𝙰𝙿𝙿𝙸𓆪➳࿐𝆺𝅥⃝🇧🇷</a>"""
